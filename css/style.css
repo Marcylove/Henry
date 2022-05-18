@@ -1,0 +1,100 @@
+.texto{
+    font-family: 'Rokkitt', serif;
+    font-size:25px;
+    padding: 25px;
+}
+i{
+    color:#7700ff;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.section1{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: rgb(0, 0, 0);
+    border: 5px solid #b747e4;
+    float: right;
+    background-color: rgba(255, 255, 255, 0.555)
+} 
+#img1{
+    float: left;
+    max-width: 375px;
+    max-height: 300px;
+    margin: 10px;
+}
+.section2{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: rgb(0, 0, 0);
+    border: 5px solid #b747e4;
+    float: left;  
+    background-color: rgba(255, 255, 255, 0.555)
+} 
+#img2{
+    float: right;
+    max-width: 250px;
+    max-height: 400px;
+    margin: 10px;
+}
+.section3{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: rgb(0, 0, 0);
+    border: 5px solid #b747e4;
+    float: left;
+    background-color: rgba(255, 255, 255, 0.555)
+} 
+#img3{
+    float: left;
+    max-width: 230px;
+    max-height: 400px;
+    margin: 10px;
+}
+body{
+    background-image: url(../images/cometa.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+}   
+h1{
+    color: rgb(183, 0, 255);
+    font-family: 'Rokkitt', serif;
+    font-size: 60px;
+}
+h2{
+    color: rgb(109, 9, 240);
+    font-family: 'Concert One';
+    padding: 10px;
+}
+h3{
+    font-family: 'Rokkitt', serif;
+    font-size: 30px;
+    color:rgb(255, 255, 255);
+}
+img{
+    position: auto;
+    max-width: 830px;
+    max-height: 1000px
+}
+a{
+    padding: 10px 50px;
+    border:solid 4px #b747e4;
+    background-color: #df38ee94;
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    border-radius: 10px;
+    margin: 20px;
+    font-family: 'Rokkitt', serif;
+    font-size: 16px;
+}
+.logo{
+    float: right;
+    margin-right: 20px;
+}
+.video{
+    text-align: center;
+}
+.pie{
+    font-family: 'Rokkitt', serif;
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+}
+
